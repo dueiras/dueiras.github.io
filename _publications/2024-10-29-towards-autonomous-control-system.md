@@ -7,6 +7,7 @@ date: 2024-10-29
 venue: 'IFAC CAMS 2024'
 paperurl: 'http://dueiras.github.io/files/publications/Towards_Autonomous_Control_System_in_Brazilian_Navys_USV_Lab.pdf'
 citation: 'Douglas Silva de Lima, Pedro Augusto de Oliveira Carvalho, <b>Eduardo Eiras de Carvalho</b>, Eduardo Aoun Tannuri, Claudio Coreixas de Moraes, André Ribeiro Breitinger'
+img: minex23.jpg
 ---
 
 <img src="/images/minex23.jpg"/>
