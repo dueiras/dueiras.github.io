@@ -1,12 +1,16 @@
 ---
 permalink: /
-title: "Thanks for stopping by! This website is still being updated, stay tuned!"
+title: "Hi! I'm Eduardo Eiras"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 img: "/files/dgs15.gif"
 ---
+
+#  🚧 Stay tuned! 🚧
+
+This website is still under development 
 
 # About Me
 
