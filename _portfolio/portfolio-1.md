@@ -1,11 +1,13 @@
 ---
 title: "ROS2 Autonomous Agriculture Robot Navigation with Visual Obstacle Avoidance"
-excerpt: "Autonomous Agriculture Robot Navigation with NAV2 in Isaac-Sim using frontal camera for obstacle avoidance using HSV segmentation<br/><img src='/images/navigation.gif'>"
+excerpt: "Autonomous Agriculture Robot Navigation with NAV2 in Isaac-Sim using frontal camera for obstacle avoidance using HSV segmentation. [github](https://github.com/dueiras/agriculture_bot.git)<br/><img src='/images/navigation.gif'>"
 collection: portfolio
 img: /images/visual_and_global_navigation.mp4
 ---
 
 <img src="/images/visual_and_global_navigation.gif"/>
+
+you can check it [here](https://github.com/dueiras/agriculture_bot.git)
 
 ## Overview
 This project focuses on **autonomous navigation** in an agricultural setting. The robot operates in two modes:
