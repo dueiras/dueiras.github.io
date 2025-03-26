@@ -56,6 +56,7 @@ redirect_from:
 ## Projects
 
 - **Master Thesis:** Developed algorithms for path planning and obstacle avoidance in autonomous drones using reinforcement learning, demonstrating an increase in robustness when testing in new environments compared to traditional training techniques.
+- **Autonomous Robot Navigation in Agriculture Environment:** ROS2 autonomous robot simulated in Isaac-Sim using NAV2 and image segmentation for obstacle avoidance.
 - **Drone Racing:** Implemented control algorithms and computer vision techniques for drone trajectory storage and image collection using ROS and Gazebo at DRAFT, an autonomous drone group at Politecnico di Torino.
 - **1st Place Hackathon:** 2020 Datathon USP X UFMG for predicting next year sales. Developed predictive models for sales forecasting, achieving the most accurate results among 20+ university teams.
 
