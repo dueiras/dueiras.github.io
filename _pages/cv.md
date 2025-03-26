@@ -12,12 +12,10 @@ redirect_from:
 
 ### Politecnico di Torino – Turim, Italy  
 **Double Degree in MSc. Mechatronics Engineering**  
-**GPA:** 102/110  
 *Sep. 2020 – Jul. 2022*
 
 ### Polytechnic School of USP – São Paulo, Brazil  
 **Bachelor of Engineering in Mechatronics**  
-**GPA:** 7.3/10.0  
 *Mar. 2017 – Jun. 2023*
 
 ## Experience
@@ -27,7 +25,7 @@ redirect_from:
 *Jul. 2023 - Present*
 
 - Development of the Autonomous Surface Vehicle for the Brazilian Navy
-- Developed and tested Control Laws including PID and NLMPC
+- Developed and tested Control Laws including PID and NMPC
 - Implemented System Identification and Modeling techniques to improve simulation and control
 - Conducted navigation and control script testing on simulation and real speed boats
 - Implemented and tuned real-time object detection and tracking using OpenCV and YOLO to enhance obstacle avoidance
